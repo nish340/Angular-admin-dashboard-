@@ -1,8 +1,7 @@
-# Angular Admin Dashboard Template Pro
+# Angular Admin Dashboard Template
 
-![version](https://img.shields.io/badge/version-1.0.0-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg)
-
-![Product Screenshot](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-angular/argon-dashboard-angular.gif)
+## Note ! 
+This repository contains only partial code. The complete project, including the backend, admin portal, and API integrations, is private. For access, please contact me via http://nishchay.online.
 
 ## Overview
 
@@ -111,4 +110,4 @@ Designed and developed by **Nishchay Sharma**
 
 ---
 
-© 2023 Angular Admin Dashboard Template Pro. All rights reserved.
+© 2023 Angular Admin Dashboard Template. All rights reserved.
